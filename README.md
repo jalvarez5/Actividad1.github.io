@@ -1,10 +1,8 @@
 # Actividad1.github.io
-Presentado por: 
 
-Jose Alvarez Toro
+# Presentado por:
+1. Jhon Jairo Gonzalez Sanchez
+2. Jose Alvarez Toro
 
-Jhon Jairo Gonzalez Sanchez
-
-![image](https://github.com/jalvarez5/Actividad1.github.io/assets/99405225/a1c03ef6-2499-44c2-9607-7839971f2e1d)
-https://actividad1.github.io/
-
+   # AnimeZone: https://jhongonzalezs.github.io/Actividad1.github.io/ 
+   [![Anime-Zone.png](https://i.postimg.cc/MpNtd09W/Anime-Zone.png)](https://postimg.cc/jD6zjfV9) 
